@@ -1,0 +1,28 @@
+.navbar {
+    background: lightgreen;
+    position: fixed;
+    font-family: 'Times New Roman', Times, serif;
+}
+.image {
+    width: 25% ;
+    padding-top: 56.25%;
+}
+
+.project_image {
+    height: 100%;
+    width: 100%;
+}
+
+.project_card {
+    border: 2px solid red;
+}
+
+.project_description {
+    border: 2px solid red;
+    background-color:rgba(0,255,0,0.3);
+    color: royalblue;
+}
+
+.project_image {
+    border: 2px solid red;
+}
